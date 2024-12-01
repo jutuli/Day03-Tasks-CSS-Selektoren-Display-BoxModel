@@ -1,0 +1,8 @@
+article {
+  display: inline-block;
+  border: 1px solid;
+  height: 15vh;
+  width: 20vw;
+  margin: 1vw;
+  padding-left: 1vw;
+}
