@@ -1,0 +1,64 @@
+/* === General Styling === */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 500px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  margin: 1vw auto;
+}
+
+h1,
+h2,
+h3 {
+  display: inline-block;
+  border: 2px;
+  border-radius: 10px;
+  padding: 0.2rem;
+  margin: 1vw 0;
+}
+
+p {
+  border: 1px solid orange;
+  padding: 1rem;
+  margin: 1vw 0;
+  color: purple;
+}
+
+p::first-letter {
+  font-size: 2rem;
+}
+
+/* === Section 1 === */
+h1 {
+  border-style: dashed;
+  border-color: black;
+}
+
+/* === Section 2 === */
+
+h2 {
+  box-shadow: 5px -5px 5px rgb(0, 0, 0, 0.3);
+}
+
+ol,
+ul {
+  text-decoration: underline green;
+  text-align: left;
+  margin-right: 5vw;
+  margin-left: 5vw;
+  padding: 2vw;
+  border: 1px dotted green;
+}
+
+/* === Section 3 === */
+
+h3 {
+  border-style: double;
+  border-color: green;
+}
