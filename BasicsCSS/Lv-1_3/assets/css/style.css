@@ -1,0 +1,9 @@
+li {
+  list-style: none;
+}
+
+a,
+span {
+  text-decoration: none;
+  color: rgb(217, 80, 39);
+}
