@@ -1,0 +1,17 @@
+/* == TASK ==
+- Ändere die Farbe des Hintergrundes.
+- Gib dem Element die Breite "300px".
+- Gib dem Element einen Innenabstand von "25px".
+- Gib dem Element einen Rahmen von "25px solid black".
+- Gib dem Element einen Außenabstand von "25px".
+- Ändere den Wert margin-left und margin-right in "auto". */
+
+p {
+  background-color: turquoise;
+  width: 300px;
+  padding: 25px;
+  border: 25px solid black;
+  margin: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
