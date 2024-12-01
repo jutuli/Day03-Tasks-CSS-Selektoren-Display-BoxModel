@@ -1,0 +1,39 @@
+/* === Section Tasks === */
+section {
+  background-color: #a5d6a7;
+}
+
+h1 {
+  background-color: #4dd0e1;
+}
+
+section p {
+  background-color: #c5cae9;
+}
+
+/* === Article === */
+article {
+  background-color: #f48fb1;
+}
+
+h2 {
+  background-color: #7986cb;
+}
+
+article p {
+  background-color: #ff8a65;
+}
+
+button {
+  background-color: #304ffe;
+  color: white;
+}
+
+/* - Verwende einfache selectors in CSS (tags, Nachfahren-Selektor | Descendant). Nutze dafür den vorgegebenen HTML-Code und wende bitte Folgendes an:
+- Das Element <section> bekommt die Hintergrundfarbe #A5D6A7.
+- Ändere für den ersten Titel die Hintergrundfarbe auf #4DD0E1.
+- Ändere für den ersten Absatz die Hintergrundfarbe auf #C5CAE9.
+- Das Element article bekommt die Hintergrundfarbe #F48FB1.
+- Ändere für den ersten Titel die Hintergrundfarbe auf #7986cb.
+- Ändere für den ersten Absatz die Hintergrundfarbe auf #ff8a65.
+- Der Button bekommt die Hintergrundfarbe #304FFE und die Schriftfarbe white. */
